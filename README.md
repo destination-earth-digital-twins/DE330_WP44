@@ -1,2 +1,2 @@
 # WP44
-A wiki repository for the work package 4 Task 4 - Exploitation of PP framework for key applications
+A wiki repository for the Work Package 4 Task 4 - Exploitation of PP framework for key applications. Please do not modify this page and go to the wiki tab instead.
